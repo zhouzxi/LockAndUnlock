@@ -25,7 +25,6 @@ typedef signed   int    INT32;
 // 函数声明
 INT32 MutexLock();
 INT32 MutexUnLock();
-INT32 main();
 
 
 /**********************************************************************
